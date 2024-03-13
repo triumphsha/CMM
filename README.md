@@ -7,5 +7,5 @@ Communication Management Machine
 
 2、常用通信协议，包括modbus、IEC104、DL645等；
 
-3、具备灵活配置。
+3、具备性能高效、灵活配置。
 
